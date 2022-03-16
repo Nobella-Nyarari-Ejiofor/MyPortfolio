@@ -4071,3 +4071,14 @@ article.blog-single .blog-content {
         display: none;
     }
 }
+#works img{
+    height: 300px;
+   
+    
+}
+#works  button{
+    margin-top: 3rem;   
+}
+#github{
+ width: 4ma00px;
+}
