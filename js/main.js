@@ -432,3 +432,10 @@
 
 
 })(jQuery);
+
+
+
+ document.querySelector("form.contactme").addEventListener("submit", function(event) {
+    event.preventDefault();
+    swal ( "Thank you. I will reach out to you shortly." );
+  }, false);
