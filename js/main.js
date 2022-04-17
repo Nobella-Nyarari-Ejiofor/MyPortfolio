@@ -432,3 +432,10 @@
 
 
 })(jQuery);
+
+
+$(".subscribe-form__submit").onClick(()=>{
+    $(".subscribe-form").addClass("hide");
+    $(".subscribe-form__thanks").removeClass("show");
+ });
+ 
