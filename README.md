@@ -39,8 +39,6 @@ This is my personal porfolio showcasing my work .
 ## Authors Info
 Can be reached by the email below for questions and comments 
 
-[Email](nobellanyarari@gmail.com)
+[Email](https://nobellanyarari@gmail.com)
 
-[Go Back to the top](#By Nobella Nyarari Ejiofor)
- 
 
